@@ -11,6 +11,8 @@ Example Alerts
 - [CVE-2021-37538](https://console.vulncheck.com/cve/CVE-2021-37538)
 - [CVE-2016-10367](https://console.vulncheck.com/cve/CVE-2016-10367)
 
+[VulnCheck Chrome Extension](https://chromewebstore.google.com/detail/vulncheck-insights/ialmnppnmajmaeibknkgfihffkobnogp?hl=en-US&utm_source=ext_sidebar)
+
 [VulnCheck CLI](https://docs.vulncheck.com/tools/cli)
 
 [VulnCheck Jupyter Notebook](https://github.com/vulncheck-oss/vulnerability-research)
