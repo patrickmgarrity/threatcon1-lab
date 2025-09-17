@@ -15,5 +15,7 @@ Example Alerts
 - [Microsoft MSRC](https://msrc.microsoft.com/update-guide/vulnerability)
 
 [VulnCheck CLI](https://docs.vulncheck.com/tools/cli)
+- [CLI Examples](https://docs.vulncheck.com/tools/cli/examples)
+- [Offline Access](https://docs.vulncheck.com/tools/cli/offline)
 
 [VulnCheck Jupyter Notebook](https://github.com/vulncheck-oss/vulnerability-research)
